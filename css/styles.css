@@ -8,6 +8,9 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     font-size: 18px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -38,6 +41,7 @@ main {
     padding: 2rem;
     max-width: 1200px;
     margin: 0 auto;
+    flex: 1;
 }
 
 .hero {
@@ -64,13 +68,19 @@ main {
     border-radius: 5px;
 }
 
+.providers-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
 .provider-card {
     border: 1px solid #ddd;
     padding: 1rem;
-    margin-bottom: 2rem;
     border-radius: 5px;
     position: relative;
     padding-bottom: 3rem;
+    margin-bottom: 0;
 }
 
 .rating {
@@ -135,6 +145,11 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .providers-list {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
     .service-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 1.5rem;

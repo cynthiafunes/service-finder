@@ -26,3 +26,9 @@ Prueba Usuario 4:
 "El verde de los botones es muy brillante y el fondo gris es muy claro"
 - Se ajustó el color de los botones a un verde más suave
 - Se oscureció el fondo gris
+
+Prueba Usuario 5:
+"Los proveedores se ven mejor en cuadrícula y hay un espacio en blanco después del footer"
+- Se organizaron los proveedores en grid 2x2
+- Se agregó cuarto proveedor
+- Se arregló el espacio en blanco del footer
