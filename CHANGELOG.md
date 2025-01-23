@@ -1,6 +1,13 @@
 # Changelog
 
-## [Unreleased]
-### Added
-- Initial project setup
-- Basic file structure
+## [v0.1]
+- Added project structure and base files
+- Added HTML and CSS for all pages
+
+Prueba Usuario 1:
+"Letra muy pequeña, no se ve como contactar, enlaces muy juntos, el footer tapa contenido"
+- Se aumentó el tamaño de letra a 18px
+- Se incluyeron botones de contacto
+- Se mejoró el espacio entre enlaces
+- Se cambió el footer de fijo a normal
+
