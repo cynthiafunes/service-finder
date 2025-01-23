@@ -17,3 +17,7 @@ Prueba Usuario 2:
 - Se agregó más espacio entre tarjetas
 - Se mejoró el menú responsive
 
+Prueba Usuario 3:
+"Las estrellas no se entiende si son calificaciones reales, los descuentos no resaltan lo suficiente"
+- Se agregó texto explicativo a las calificaciones
+- Se mejoró el diseño de los descuentos
