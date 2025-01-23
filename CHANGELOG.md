@@ -21,3 +21,8 @@ Prueba Usuario 3:
 "Las estrellas no se entiende si son calificaciones reales, los descuentos no resaltan lo suficiente"
 - Se agregó texto explicativo a las calificaciones
 - Se mejoró el diseño de los descuentos
+
+Prueba Usuario 4:
+"El verde de los botones es muy brillante y el fondo gris es muy claro"
+- Se ajustó el color de los botones a un verde más suave
+- Se oscureció el fondo gris
